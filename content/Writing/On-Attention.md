@@ -30,20 +30,18 @@ James's formulation is instructive because it locates attention in the will — 
 
 [[Philosophy of Mind]] offers a richer vocabulary here. Edmund Husserl's notion of *intentionality* — that consciousness is always consciousness *of* something — already contains the seed of an attentional account. When I attend to something, I do not simply direct my gaze at it. I constitute it as a figure against a ground, as significant against a background of what matters less.[^1]
 
-[^1]: This is the phenomenological insight that attention is not mere selection but constitution — what we attend to is, in some sense, *made* by attention, not merely *found*. Husserl develops this most fully in the *Logical Investigations*.
+[^1]: This is the phenomenological insight that attention is not mere selection but constitution — what we attend to is, in some sense, *made* by attention, not merely *found*. Husserl develops this most fully in the [Logical Investigations](https://en.wikipedia.org/wiki/Logical_Investigations_(Husserl)). See also [[Philosophy of Mind]]. ![Husserl](media/husserl.jpg)
 
 ---
 
 ## The Distraction Economy
 
-> *Attention is not what the distraction economy captures. It is what the distraction economy destroys.*
-{.pullquote}
+<blockquote className="pullquote">Attention is not what the distraction economy captures. It is what the distraction economy destroys.</blockquote>
 
 The contemporary account of distraction typically runs as follows: there are platforms designed to capture attention by exploiting psychological vulnerabilities; these platforms compete for a finite attentional resource; the result is an attention deficit at the societal level. This is broadly correct, but it understates the problem.
 
-:::note
-**Note:** The "resource" framing, while politically useful — it grounds demands for regulation — may be philosophically misleading. Resources can be replenished. What is at stake in chronic distraction may be something more like a capacity, or a habit, whose loss is not merely quantitative.
-:::
+> [!note] On the "resource" framing
+> While politically useful — it grounds demands for regulation — the resource framing may be philosophically misleading. Resources can be replenished. What is at stake in chronic distraction may be something more like a capacity, or a habit, whose loss is not merely quantitative.
 
 Simone Weil, writing long before the smartphone, understood this better than most contemporary commentators. In her essay on school studies, she argues that attention is a form of love — that to genuinely attend to something or someone is to receive them as they are, without imposing our own projections. The opposite of attention, for Weil, is not distraction but *affliction* — a state in which the self is so overwhelmed that genuine contact with the world becomes impossible.
 
@@ -57,15 +55,14 @@ The connection between attention and genuine thought is something [[Wittgenstein
 
 There is a stronger claim available here, though one that requires care. It is not merely that distraction makes thinking harder. It is that certain kinds of thinking — the slow, recursive, self-correcting kind — are constitutively attentional. They cannot be performed in a distracted state any more than a conversation can be had while both parties are looking at their phones. What looks like thinking in a distracted state is something else: association, reaction, the replay of cached responses.
 
-<Query filter="tags=philosophy" sort="-date" limit="4" display="list" />
+<Query filter="tag=philosophy" sort="-date" limit="4" display="list" />
 
 ---
 
 ## A Defence of Difficulty
 
-:::callout
-**The attention that matters most is not pleasant.** Genuine philosophical attention — attending to a hard problem until it yields — involves something close to suffering. This is why Weil connects attention to love and to prayer: all three require the suspension of the ego's demand for immediate satisfaction.
-:::
+> [!callout] The attention that matters most is not pleasant
+> Genuine philosophical attention — attending to a hard problem until it yields — involves something close to suffering. This is why Weil connects attention to love and to prayer: all three require the suspension of the ego's demand for immediate satisfaction.
 
 This suggests a defence of difficulty that is unfashionable but important. Difficult texts, difficult problems, difficult conversations — these are not obstacles to thought but *occasions* for the kind of attention that thinking requires. The movement toward accessibility in intellectual culture, while valuable in many respects, risks eliminating the very friction that makes genuine attention possible.
 
